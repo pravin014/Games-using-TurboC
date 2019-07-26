@@ -1,5 +1,0 @@
-This car in worng way game.
-Press arrow keys to move.
-You will lose life if hit any cars.
-Douge as many cars as you can.
-Press R to replay.
