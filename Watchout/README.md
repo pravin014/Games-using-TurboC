@@ -1,5 +1,8 @@
-Space shooting game.
-Use mouse to move your battle ship.
-Left click to shoot.
-Shoot the blue boxes.
-Do not shoot the light green boxes.
+Space travel game.
+You can go left/right using arrow keys.
+You can stop the ship using up/down arrow keys.
+Press H for how to play.
+Press S to view Shop and buy items.
+Collect Red boxes for life and money.
+If hit by yellow circle you will loose a life and money.
+Press B,  N,  M,  J,  for blast (if bought from shop).
