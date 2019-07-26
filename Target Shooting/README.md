@@ -1,3 +1,3 @@
-Target shooting game.<br>
+# Target Shooting Game
 Use cursor to shoot targets.<br>
-More accurate you shoot more score you get.<br>
+The more accurate you shoot the more score you can get.<br>
