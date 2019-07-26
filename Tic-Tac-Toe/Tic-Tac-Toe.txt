@@ -1,0 +1,11 @@
+By numbers:-
+1st box is  1, 
+2nd box is 2, etc.
+Press the required box number to put X/O.
+
+By Arrows:-( The right side keypad without number lock)
+1st box is 1st row 1st key,
+2nd box is 1st row 2nd key,
+3rd box is 1st row 3rd key, etc.
+
+Only 2 player game.
