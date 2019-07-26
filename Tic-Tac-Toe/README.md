@@ -1,4 +1,5 @@
-2 player Tic-Tac-Toe game.<br>
+# Tic Tac Toe
+2 player game.<br>
 
 By numbers:-<br>
 1st box is 1,<br> 
