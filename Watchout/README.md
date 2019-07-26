@@ -1,0 +1,5 @@
+Space shooting game.
+Use mouse to move your battle ship.
+Left click to shoot.
+Shoot the blue boxes.
+Do not shoot the light green boxes.
